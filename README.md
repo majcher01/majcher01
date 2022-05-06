@@ -14,7 +14,7 @@ Hi 👋 My name is Jakub Majcherski
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-And more, but I couldnt find icons.
+And more, but I couldnt find the icons.
 
 
 
