@@ -17,8 +17,12 @@ Hi 👋 My name is Jakub Majcherski
 And more, but I couldnt find the icons.
 
 ### Projects
-1. Weather forecast app - uses geolocation and weather api to show forecast for current location.
-    Webpage <a href="https://majcher01.github.io/JS/pogoda/">HERE</a>,  Repo <a href="https://github.com/majcher01/JS/tree/main/pogoda">HERE</a>
+1. Weather forecast app - uses geolocation and weather api to show forecast for current location.<br>
+    Webpage <a href="https://majcher01.github.io/JS/pogoda/">HERE</a>,  Repo <a href="https://github.com/majcher01/JS/tree/main/pogoda">HERE</a><br>
+    Currently only in Polish.
+    <br>
+2. 'HTML tutorial' - school project, you can learn the fundamentals of HTML and CSS there.<br>
+    Webpage <a href="tsi2021.pages.dev">HERE</a>,  Repo <a href="https://github.com/majcher01/tsi2021">HERE</a><br>
     Currently only in Polish.
 
 
